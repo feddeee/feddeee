@@ -1,10 +1,21 @@
 ### Holaa! 👋
 
-Mi nombre es Fede, estudiante de Desarollo Web aspirante a FullStack Web Dev. Tengo 17 años y estudio de manera auto-didacta.
+Mi nombre es Fede, soy estudiante de Desarollo Web, de manera auto-didacta, aspirante a FullStack Web Dev.🤖
 
-Actualmente me encuentro finalizando mi 5to año en el nivel Secundario, Soy de San Luis - Argentina 🇦🇷 
+Actualmente me encuentro finalizando mi 5to año en el nivel Secundario. 🧠
 
-Estoy leyendo: HTML, CSS, JS, Bootstrap, SASS, y profundizando {React.JS}, aqui adjuntare todos los proyectos que vaya trabajando y logrando realizar con el paso del tiempo.
+Skills: 
+
+  HTML ✔
+  CSS ✔
+  JS ✔ 
+  Bootstrap ✔
+  SASS ✔ 
+  
+  y profundizando {React.JS} 🧤
+  
+  
+  aqui adjuntare todos los proyectos que vaya trabajando y logrando realizar con el paso del tiempo. 💻
 
 
 
